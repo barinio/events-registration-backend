@@ -1,10 +1,12 @@
 # Events-registration backend
 
-This backend is made for the frontend [events-registration](https://github.com/barinio/events-registration).
+This backend is made for the frontend:
+
+-  Repo: [git-hub](https://github.com/barinio/events-registration)
+-  Website: [events-registration](https://github.com/barinio/events-registration).
 
 <details>
 <summary>More information</summary>
-
 
 ## Сommands:
 
@@ -13,5 +15,4 @@ This backend is made for the frontend [events-registration](https://github.com/b
 
 </details>
 
-> This repository is on the [Render](https://events-registration-backend.onrender.com/) server.
-
+> This repository is on the [Render server](https://events-registration-backend.onrender.com/).
