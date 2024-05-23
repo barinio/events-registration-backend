@@ -3,7 +3,7 @@
 This backend is made for the frontend:
 
 -  Repo: [git-hub](https://github.com/barinio/events-registration)
--  Website: [events-registration](https://github.com/barinio/events-registration).
+-  Website: [events-registration](https://events-registration-test-assignment.netlify.app/).
 
 <details>
 <summary>More information</summary>
